@@ -1,0 +1,15 @@
+msg at the time of new patient entry, next visit remainder
+
+token generation and live database
+
+consultant field tobe added to patient form [Dropdown]
+
+doctor-diagnosis- close button will appear only when patient is repeated for same ailment.
+
+
+
+
+who will decide the consultant for patient? Ans: Receptionist.
+Is consultant fees should be doctor wise or same for all?
+Is patient history based on appointment?
+Appointment booking based on consultant or all mix? separate for consultant or what?

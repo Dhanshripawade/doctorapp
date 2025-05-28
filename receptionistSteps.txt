@@ -1,0 +1,10 @@
+login
+  |
+  |
+enter patient info(new/old)
+  |
+  |
+payment
+  |
+  |
+create appointment
